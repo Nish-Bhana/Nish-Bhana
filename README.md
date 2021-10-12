@@ -36,6 +36,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-61DBFB?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=61DBFB)](#)
 [![PowerBI Badge](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&labelColor=black&logo=PowerBI&logoColor=F2C811)](#)
 [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-808080?style=for-the-badge&labelColor=black&logo=PyCharm&logoColor=FFFFFF)](#)
+[![Visual Studio Badge](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&labelColor=black&logo=VisualStudio&logoColor=5C2D91)](#)
+[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&labelColor=black&logo=VisualStudioCode&logoColor=007ACC)](#)
 
 
 # 📈 My Github Stats
