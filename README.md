@@ -1,6 +1,6 @@
 # Background Details
 
-- 👋 Hi, I’m Nish
+## 👋 Hi, I’m Nish
 - 👀 I’m interested in all aspects of Data Science, ranging from Machine Learning & Model building to Reporting & Project Managing 
 - :technologist: Languages I use include: Python, SQL, DAX 
 - 💞️ I’m looking to add interesting projects that I do in my free time here
@@ -15,7 +15,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-# Programming Languages & Packages
+# 💻 Programming Languages & Packages ⚡
 [![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=black&logo=Python&logoColor=yellow)](#)
 [![SQL Badge](https://img.shields.io/badge/-SQL-88CE02?style=for-the-badge&labelColor=black&logo=MicrosoftSQLServer&logoColor=88CE02)](#)
 [![DAX Badge](https://img.shields.io/badge/-DAX-FFC0CB?style=for-the-badge&labelColor=black&logo=PowerBI&logoColor=FFC0CB)](#) 
@@ -29,7 +29,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-# Software Tools
+# 💻 Software Tools ⚡
 [![Microsoft_Azure Badge](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&labelColor=black&logo=MicrosoftAzure&logoColor=0078D4)](#)
 [![Microsoft_SQL_Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=MicrosoftSQLServer&logoColor=CC2927)](#)
 [![Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=MicrosoftExcel&logoColor=217346)](#)
