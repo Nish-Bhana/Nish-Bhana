@@ -18,7 +18,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 # 💻 Programming Languages & Packages ⚡
 [![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=black&logo=Python&logoColor=yellow)](#)
 [![SQL Badge](https://img.shields.io/badge/-SQL-88CE02?style=for-the-badge&labelColor=black&logo=MicrosoftSQLServer&logoColor=88CE02)](#)
-[![Powershell Badge](https://img.shields.io/badge/-Powershell-276DC3?style=for-the-badge&labelColor=black&logo=Powershell&logoColor=276DC3)](#)
+[![Powershell Badge](https://img.shields.io/badge/-Powershell-4285F4?style=for-the-badge&labelColor=black&logo=Powershell&logoColor=4285F4)](#)
 [![DAX Badge](https://img.shields.io/badge/-DAX-FFC0CB?style=for-the-badge&labelColor=black&logo=PowerBI&logoColor=FFC0CB)](#) 
 [![R Badge](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&labelColor=black&logo=R&logoColor=276DC3)](#)
 [![Mathematica Badge](https://img.shields.io/badge/-Mathematica-DD1100?style=for-the-badge&labelColor=black&logo=WolframMathematica&logoColor=DD1100)](#)
