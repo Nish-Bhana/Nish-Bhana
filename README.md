@@ -4,7 +4,7 @@
 - 👀 I’m interested in all aspects of Data Science, ranging from Machine Learning & Model building to Visualisation & Product Management.
 - :technologist: Languages I use include: Python, SQL, Powershell, DAX 
 - 💞️ I’m looking to add interesting projects that I do in my free time here
-- 🥅 Goals: Contribute more to Open Source projects & to learn something new everyday
+- 🥅 Goals: Contribute more to open source projects & to learn something new everyday
 - 📫 How to reach me: nbdoescode@gmail.com
 - ⚡ Fun fact: I love to watch boxing
 
@@ -18,13 +18,15 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 # 💻 Programming Languages & Packages ⚡
 [![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=black&logo=Python&logoColor=yellow)](#)
 [![SQL Badge](https://img.shields.io/badge/-SQL-88CE02?style=for-the-badge&labelColor=black&logo=MicrosoftSQLServer&logoColor=88CE02)](#)
+[![Powershell Badge](https://img.shields.io/badge/-Powershell-276DC3?style=for-the-badge&labelColor=black&logo=Powershell&logoColor=276DC3)](#)
 [![DAX Badge](https://img.shields.io/badge/-DAX-FFC0CB?style=for-the-badge&labelColor=black&logo=PowerBI&logoColor=FFC0CB)](#) 
 [![R Badge](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&labelColor=black&logo=R&logoColor=276DC3)](#)
 [![Mathematica Badge](https://img.shields.io/badge/-Mathematica-DD1100?style=for-the-badge&labelColor=black&logo=WolframMathematica&logoColor=DD1100)](#)
 [![Numpy Badge](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=NumPy&logoColor=013243)](#) 
 [![Pandas Badge](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)](#) 
 [![scikit-learn Badge](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=F7931E)](#) 
-[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=TensorFlow&logoColor=FF6F00)](#) 
+[![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=TensorFlow&logoColor=FF6F00)](#)
+
 
 
 
