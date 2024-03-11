@@ -26,6 +26,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Pandas Badge](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)](#) 
 [![scikit-learn Badge](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=F7931E)](#) 
 [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=TensorFlow&logoColor=FF6F00)](#)
+[![PyTorch Badge](https://img.shields.io/badge/-PyTorch-B92B0F?style=for-the-badge&labelColor=black&logo=PyTorch&logoColor=B92B0F)](#)
 
 
 
