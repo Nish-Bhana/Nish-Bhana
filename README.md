@@ -34,6 +34,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 # 💻 Software Tools ⚡
 [![Microsoft_Azure Badge](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&labelColor=black&logo=MicrosoftAzure&logoColor=0078D4)](#)
+[![GCP Badge](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&labelColor=black&logo=GCP&logoColor=4285F4)](#)
 [![Microsoft_SQL_Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=MicrosoftSQLServer&logoColor=CC2927)](#)
 [![Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=MicrosoftExcel&logoColor=217346)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-61DBFB?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=61DBFB)](#)
