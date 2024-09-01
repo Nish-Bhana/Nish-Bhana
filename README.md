@@ -1,10 +1,6 @@
 # Background Details
 
 ## 👋 Hi, I’m Nish
-- 👀 I’m interested in all aspects of Data Science, ranging from Machine Learning & Model building to Visualisation & Product Management.
-- :technologist: Languages I use include: Python, SQL, Powershell, DAX 
-- 💞️ I’m looking to add interesting projects that I do in my free time here
-- 🥅 Goals: Contribute more to open source projects & to learn something new everyday
 - 📫 How to reach me: nbdoescode@gmail.com
 - ⚡ Fun fact: I love to watch boxing
 
