@@ -10,6 +10,28 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
+## Open-source highlights
+
+### Scikit Learn
+- [ #27891](https://github.com/scikit-learn/scikit-learn/pull/27891): Advising on adding `inverse_transform` to `_set_output` method.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 💻 Programming Languages & Packages ⚡
 [![Python Badge](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&labelColor=black&logo=Python&logoColor=yellow)](#)
